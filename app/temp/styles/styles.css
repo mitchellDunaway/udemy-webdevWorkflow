@@ -1,0 +1,17 @@
+body {
+	background: #2f5572;
+	-webkit-columns: 300px 3;
+	        columns: 300px 3;
+}
+
+.wrapper .inner {
+		position: relative;
+	}
+
+.wrapper .inner #my_bahx {
+			color: #2f5572;
+		}
+
+.wrapper .column {
+		width: 100%;
+	}

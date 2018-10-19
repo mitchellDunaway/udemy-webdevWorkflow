@@ -1,0 +1,18 @@
+$mainBlue: #2f5572;
+
+body {
+	background: $mainBlue;
+	columns: 300px 3;
+}
+
+.wrapper {
+	.inner {
+		position: relative;
+		#my_bahx {
+			color: $mainBlue;
+		}
+	}
+	.column {
+		width: 100%;
+	}
+}
