@@ -1,5 +1,6 @@
 .large-hero {
 	position: relative;
+	
 	&__text-content {
 		position: absolute;
 		top: 50%;
